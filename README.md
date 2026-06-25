@@ -11,8 +11,14 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
