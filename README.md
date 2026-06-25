@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/amol1027/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
