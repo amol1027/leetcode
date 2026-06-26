@@ -10,6 +10,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -28,5 +29,10 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
