@@ -21,4 +21,12 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
