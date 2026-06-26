@@ -25,6 +25,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -34,5 +35,10 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
