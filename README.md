@@ -16,6 +16,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amol1027/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amol1027/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
