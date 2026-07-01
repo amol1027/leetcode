@@ -31,6 +31,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -55,9 +56,11 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
