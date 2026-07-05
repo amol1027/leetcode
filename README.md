@@ -13,6 +13,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/amol1027/leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/amol1027/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
