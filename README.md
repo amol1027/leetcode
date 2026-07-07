@@ -82,6 +82,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amol1027/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
 | ------- |
