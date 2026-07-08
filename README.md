@@ -82,6 +82,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amol1027/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
