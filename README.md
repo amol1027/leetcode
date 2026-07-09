@@ -57,6 +57,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2255-count-prefixes-of-a-given-string](https://github.com/amol1027/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0771-jewels-and-stones](https://github.com/amol1027/leetcode/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/amol1027/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amol1027/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Interactive
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,4 +158,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amol1027/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amol1027/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
