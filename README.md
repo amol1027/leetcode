@@ -89,6 +89,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amol1027/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/amol1027/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amol1027/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Interactive
