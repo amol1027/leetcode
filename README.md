@@ -109,6 +109,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/amol1027/leetcode/tree/master/1291-sequential-digits) |
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
 ## Dynamic Programming
 |  |
