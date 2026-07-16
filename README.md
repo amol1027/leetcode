@@ -30,6 +30,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amol1027/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/amol1027/leetcode/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amol1027/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2716-minimize-string-length](https://github.com/amol1027/leetcode/tree/master/2716-minimize-string-length) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
 ## Sorting
