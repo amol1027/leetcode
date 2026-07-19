@@ -69,6 +69,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3833-count-dominant-indices](https://github.com/amol1027/leetcode/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amol1027/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/amol1027/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
+| [3833-count-dominant-indices](https://github.com/amol1027/leetcode/tree/master/3833-count-dominant-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
