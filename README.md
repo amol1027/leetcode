@@ -71,6 +71,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3833-count-dominant-indices](https://github.com/amol1027/leetcode/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/amol1027/leetcode/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
