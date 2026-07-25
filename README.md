@@ -103,6 +103,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/amol1027/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3360-stone-removal-game](https://github.com/amol1027/leetcode/tree/master/3360-stone-removal-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/amol1027/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amol1027/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/amol1027/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
