@@ -61,6 +61,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amol1027/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amol1027/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1816-truncate-sentence](https://github.com/amol1027/leetcode/tree/master/1816-truncate-sentence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/amol1027/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -177,6 +179,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
