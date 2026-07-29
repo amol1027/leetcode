@@ -13,6 +13,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amol1027/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/amol1027/leetcode/tree/master/0520-detect-capital) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/amol1027/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/amol1027/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -231,4 +234,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
