@@ -64,6 +64,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amol1027/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 ## String Matching
 |  |
@@ -244,4 +248,12 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
