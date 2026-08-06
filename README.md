@@ -138,6 +138,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/amol1027/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/amol1027/leetcode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/amol1027/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amol1027/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/amol1027/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amol1027/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/amol1027/leetcode/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/amol1027/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3833-count-dominant-indices](https://github.com/amol1027/leetcode/tree/master/3833-count-dominant-indices) |
 ## Dynamic Programming
 |  |
