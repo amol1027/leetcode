@@ -54,6 +54,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amol1027/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/amol1027/leetcode/tree/master/0164-maximum-gap) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/amol1027/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/amol1027/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
