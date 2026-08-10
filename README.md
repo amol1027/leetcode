@@ -139,6 +139,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amol1027/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
 | ------- |
@@ -261,12 +264,22 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amol1027/leetcode/tree/master/0053-maximum-subarray) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
