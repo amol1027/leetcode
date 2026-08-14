@@ -34,6 +34,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/amol1027/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2716-minimize-string-length](https://github.com/amol1027/leetcode/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amol1027/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3813-vowel-consonant-score](https://github.com/amol1027/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/amol1027/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2716-minimize-string-length](https://github.com/amol1027/leetcode/tree/master/2716-minimize-string-length) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amol1027/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amol1027/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/amol1027/leetcode/tree/master/3731-find-missing-elements) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amol1027/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/amol1027/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
