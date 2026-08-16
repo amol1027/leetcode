@@ -77,6 +77,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amol1027/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amol1027/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/amol1027/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/amol1027/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amol1027/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/amol1027/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 ## String Matching
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0383-ransom-note](https://github.com/amol1027/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -273,11 +278,13 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +293,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
