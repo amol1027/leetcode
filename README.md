@@ -49,6 +49,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/amol1027/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3360-stone-removal-game](https://github.com/amol1027/leetcode/tree/master/3360-stone-removal-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amol1027/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1816-truncate-sentence](https://github.com/amol1027/leetcode/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1929-concatenation-of-array](https://github.com/amol1027/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amol1027/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
