@@ -89,6 +89,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amol1027/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amol1027/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amol1027/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/amol1027/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3731-find-missing-elements](https://github.com/amol1027/leetcode/tree/master/3731-find-missing-elements) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amol1027/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amol1027/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/amol1027/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/amol1027/leetcode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
