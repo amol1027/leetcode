@@ -62,6 +62,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/amol1027/leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/amol1027/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/amol1027/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amol1027/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0053-maximum-subarray](https://github.com/amol1027/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amol1027/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/amol1027/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
