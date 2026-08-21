@@ -66,6 +66,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0198-house-robber](https://github.com/amol1027/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/amol1027/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amol1027/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/amol1027/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amol1027/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amol1027/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/amol1027/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
