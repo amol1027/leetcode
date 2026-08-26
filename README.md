@@ -84,6 +84,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amol1027/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amol1027/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/amol1027/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/amol1027/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/amol1027/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/amol1027/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0771-jewels-and-stones](https://github.com/amol1027/leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2206-divide-array-into-equal-pairs](https://github.com/amol1027/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amol1027/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/amol1027/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2716-minimize-string-length](https://github.com/amol1027/leetcode/tree/master/2716-minimize-string-length) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0383-ransom-note](https://github.com/amol1027/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/amol1027/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Bit Manipulation
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/amol1027/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Queue
 |  |
