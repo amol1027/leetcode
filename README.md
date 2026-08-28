@@ -74,6 +74,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/amol1027/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amol1027/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/amol1027/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1816-truncate-sentence](https://github.com/amol1027/leetcode/tree/master/1816-truncate-sentence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0771-jewels-and-stones](https://github.com/amol1027/leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol1027/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/amol1027/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amol1027/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/amol1027/leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/amol1027/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/amol1027/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amol1027/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/amol1027/leetcode/tree/master/3536-maximum-product-of-two-digits) |
