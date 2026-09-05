@@ -104,6 +104,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3731-find-missing-elements](https://github.com/amol1027/leetcode/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/amol1027/leetcode/tree/master/3833-count-dominant-indices) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amol1027/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/amol1027/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3903-smallest-stable-index-i](https://github.com/amol1027/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
