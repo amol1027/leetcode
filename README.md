@@ -41,6 +41,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3813-vowel-consonant-score](https://github.com/amol1027/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
+| [4006-count-valid-prefixes](https://github.com/amol1027/leetcode/tree/master/4006-count-valid-prefixes) |
 ## Stack
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/amol1027/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [4006-count-valid-prefixes](https://github.com/amol1027/leetcode/tree/master/4006-count-valid-prefixes) |
 ## Number Theory
 |  |
 | ------- |
