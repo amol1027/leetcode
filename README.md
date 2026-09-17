@@ -78,6 +78,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/amol1027/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amol1027/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/amol1027/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol1027/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/amol1027/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/amol1027/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
