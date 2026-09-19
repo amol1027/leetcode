@@ -178,6 +178,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amol1027/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/amol1027/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/amol1027/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/amol1027/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/amol1027/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
