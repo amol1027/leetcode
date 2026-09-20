@@ -39,6 +39,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amol1027/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amol1027/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/amol1027/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/amol1027/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3941-password-strength](https://github.com/amol1027/leetcode/tree/master/3941-password-strength) |
 | [4006-count-valid-prefixes](https://github.com/amol1027/leetcode/tree/master/4006-count-valid-prefixes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2390-removing-stars-from-a-string](https://github.com/amol1027/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amol1027/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/amol1027/leetcode/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/amol1027/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/amol1027/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
