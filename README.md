@@ -73,6 +73,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0198-house-robber](https://github.com/amol1027/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/amol1027/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amol1027/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/amol1027/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/amol1027/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/amol1027/leetcode/tree/master/0414-third-maximum-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/amol1027/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/amol1027/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
