@@ -12,6 +12,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amol1027/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/amol1027/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/amol1027/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amol1027/leetcode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amol1027/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/amol1027/leetcode/tree/master/1544-make-the-string-great) |
@@ -363,5 +365,6 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amol1027/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amol1027/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
