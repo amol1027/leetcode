@@ -7,6 +7,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/amol1027/leetcode/tree/master/0182-duplicate-emails) |
+| [1527-patients-with-a-condition](https://github.com/amol1027/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/amol1027/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amol1027/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## String
