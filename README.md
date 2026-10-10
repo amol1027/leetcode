@@ -7,6 +7,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/amol1027/leetcode/tree/master/0182-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/amol1027/leetcode/tree/master/0511-game-play-analysis-i) |
 | [1148-article-views-i](https://github.com/amol1027/leetcode/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/amol1027/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/amol1027/leetcode/tree/master/1683-invalid-tweets) |
