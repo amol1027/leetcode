@@ -190,6 +190,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/amol1027/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amol1027/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2396-strictly-palindromic-number](https://github.com/amol1027/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol1027/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/amol1027/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2396-strictly-palindromic-number](https://github.com/amol1027/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/amol1027/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amol1027/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/amol1027/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
