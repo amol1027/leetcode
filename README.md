@@ -129,6 +129,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amol1027/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amol1027/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amol1027/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/amol1027/leetcode/tree/master/3731-find-missing-elements) |
 | [3833-count-dominant-indices](https://github.com/amol1027/leetcode/tree/master/3833-count-dominant-indices) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amol1027/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol1027/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amol1027/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/amol1027/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amol1027/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/amol1027/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [2029-stone-game-ix](https://github.com/amol1027/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/amol1027/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amol1027/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amol1027/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
