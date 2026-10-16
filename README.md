@@ -201,6 +201,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/amol1027/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/amol1027/leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/amol1027/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/amol1027/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
