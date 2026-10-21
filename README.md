@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0387-first-unique-character-in-a-string](https://github.com/amol1027/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amol1027/leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/amol1027/leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/amol1027/leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/amol1027/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amol1027/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/amol1027/leetcode/tree/master/0709-to-lower-case) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/amol1027/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/amol1027/leetcode/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/amol1027/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/amol1027/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amol1027/leetcode/tree/master/1025-divisor-game) |
