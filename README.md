@@ -207,6 +207,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/amol1027/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/amol1027/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/amol1027/leetcode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amol1027/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
