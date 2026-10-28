@@ -26,6 +26,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0520-detect-capital](https://github.com/amol1027/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/amol1027/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amol1027/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0657-robot-return-to-origin](https://github.com/amol1027/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/amol1027/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/amol1027/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/amol1027/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/amol1027/leetcode/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/amol1027/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/amol1027/leetcode/tree/master/1920-build-array-from-permutation) |
