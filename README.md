@@ -223,6 +223,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 | [0050-powx-n](https://github.com/amol1027/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/amol1027/leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/amol1027/leetcode/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/amol1027/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amol1027/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/amol1027/leetcode/tree/master/0504-base-7) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/amol1027/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/amol1027/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amol1027/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/amol1027/leetcode/tree/master/0441-arranging-coins) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amol1027/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
