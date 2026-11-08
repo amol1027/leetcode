@@ -6,6 +6,7 @@ A collection of LeetCode questions solved by me! - Created using [LeetHub v2](ht
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/amol1027/leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/amol1027/leetcode/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/amol1027/leetcode/tree/master/0511-game-play-analysis-i) |
 | [1148-article-views-i](https://github.com/amol1027/leetcode/tree/master/1148-article-views-i) |
